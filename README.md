@@ -1,7 +1,6 @@
 # memorygame
 
-I have followed this guide:
-[Youtube-video from Mo Malaka | OfflineProgrammer](https://www.youtube.com/watch?v=nsxBO2sB-RQ)
+I have followed this [guide](https://www.youtube.com/watch?v=nsxBO2sB-RQ) and his [Github-repo](https://github.com/offlineprogrammer/the_memory_match_game)
 
 ## Getting Started
 
