@@ -67,6 +67,7 @@ class _MemoryMatchPageState extends State<MemoryMatchPage> {
                 crossAxisCount: game!.gridSize,
                 children: List.generate(game!.cards.length, (index) {
                   return MemoryCard(
+                    index: index,
                     cardItem: game!.cards[index],
                     onCardPressed: game!.onCardPressed
                   );
