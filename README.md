@@ -1,6 +1,7 @@
-# memory
+# memorygame
 
-A new Flutter project.
+I have followed this guide:
+[Youtube-video from Mo Malaka | OfflineProgrammer](https://www.youtube.com/watch?v=nsxBO2sB-RQ)
 
 ## Getting Started
 
