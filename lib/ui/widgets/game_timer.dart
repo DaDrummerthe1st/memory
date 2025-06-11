@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class GameTimer extends StatelessWidget {
   final int time;
   const GameTimer({
-    key? key,
+    Key? key,
     required this.time,
   }) : super(key: key);
 
@@ -38,10 +38,9 @@ class GameTimer extends StatelessWidget {
                   ),
                 ),
               ),
-              ),
           ],
         ),
         ),
-    )
+    );
   }
 }
