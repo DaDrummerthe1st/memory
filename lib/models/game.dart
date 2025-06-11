@@ -64,7 +64,7 @@ class Game {
 
     for (int i = 0; i < cards.length; i++) {
       if (cards[i].state == CardState.visible) {
-        selectedCardIndexes.add[i]
+        selectedCardIndexes.add(i);
       }
     }
 
