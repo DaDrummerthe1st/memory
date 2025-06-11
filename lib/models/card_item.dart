@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 enum CardState { hidden, visible, guessed }
 
 class CardItem {
-  final in value;
+  final int value;
   CardState state;
 
   CardItem(
