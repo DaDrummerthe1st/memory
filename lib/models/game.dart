@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:memory/models/card_item.dart';
 
 class Game {
-  int gridSize,
+  int gridSize;
   List<CardItem> cards = [];
   bool isGameOver = false;
   int time = 0;
